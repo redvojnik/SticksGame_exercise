@@ -1,0 +1,16 @@
+C:\Users\igrka\source\repos\hometask\LastRecursion\bin\Debug\net5.0\LastRecursion.exe
+C:\Users\igrka\source\repos\hometask\LastRecursion\bin\Debug\net5.0\LastRecursion.deps.json
+C:\Users\igrka\source\repos\hometask\LastRecursion\bin\Debug\net5.0\LastRecursion.runtimeconfig.json
+C:\Users\igrka\source\repos\hometask\LastRecursion\bin\Debug\net5.0\LastRecursion.runtimeconfig.dev.json
+C:\Users\igrka\source\repos\hometask\LastRecursion\bin\Debug\net5.0\LastRecursion.dll
+C:\Users\igrka\source\repos\hometask\LastRecursion\bin\Debug\net5.0\ref\LastRecursion.dll
+C:\Users\igrka\source\repos\hometask\LastRecursion\bin\Debug\net5.0\LastRecursion.pdb
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\LastRecursion.csproj.AssemblyReference.cache
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\LastRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\LastRecursion.AssemblyInfoInputs.cache
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\LastRecursion.AssemblyInfo.cs
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\LastRecursion.csproj.CoreCompileInputs.cache
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\LastRecursion.dll
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\ref\LastRecursion.dll
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\LastRecursion.pdb
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\LastRecursion.genruntimeconfig.cache

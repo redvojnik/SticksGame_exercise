@@ -1,0 +1,16 @@
+C:\Users\igrka\source\repos\hometask\LastRecursion\bin\Debug\net5.0\SticksGame.exe
+C:\Users\igrka\source\repos\hometask\LastRecursion\bin\Debug\net5.0\SticksGame.deps.json
+C:\Users\igrka\source\repos\hometask\LastRecursion\bin\Debug\net5.0\SticksGame.runtimeconfig.json
+C:\Users\igrka\source\repos\hometask\LastRecursion\bin\Debug\net5.0\SticksGame.runtimeconfig.dev.json
+C:\Users\igrka\source\repos\hometask\LastRecursion\bin\Debug\net5.0\SticksGame.dll
+C:\Users\igrka\source\repos\hometask\LastRecursion\bin\Debug\net5.0\ref\SticksGame.dll
+C:\Users\igrka\source\repos\hometask\LastRecursion\bin\Debug\net5.0\SticksGame.pdb
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\SticksGame.csproj.AssemblyReference.cache
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\SticksGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\SticksGame.AssemblyInfoInputs.cache
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\SticksGame.AssemblyInfo.cs
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\SticksGame.csproj.CoreCompileInputs.cache
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\SticksGame.dll
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\ref\SticksGame.dll
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\SticksGame.pdb
+C:\Users\igrka\source\repos\hometask\LastRecursion\obj\Debug\net5.0\SticksGame.genruntimeconfig.cache
